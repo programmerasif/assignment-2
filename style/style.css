@@ -53,18 +53,13 @@ nav{
 .nav-title h2{
  font-size: 45px;
 }
-.nav-ul{
-    
-}
+
 .nav-li{
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 25px;
     list-style: none;
-}
-.main-banner{
-
 }
 .banner-description{
     display: flex;
@@ -114,12 +109,6 @@ nav{
 max-width: 345px;
 max-height: 345px;
 }
-.quick-feature-description{
-    
-}
-.quick-feature-title{
-
-}
 .title-style1{
     color: #727272;
     font-weight: 400;
@@ -129,9 +118,6 @@ max-height: 345px;
 }
 .title-style3{
     color: #FF900E;
-}
-.quick-feature-about{
-    
 }
 /*---------
     loving feauter and images
@@ -154,9 +140,6 @@ max-height: 345px;
     padding: 130px 200px 0 200px;
 }
 /* loving-feauter(left side) */
-.loving-feauter-description{
-    
-}
 .loving-feauter-title{
     max-width: 465px;
     width: 100%;
@@ -179,19 +162,11 @@ box-shadow: 0 3px 25px rgba(0, 0, 0, 0.06);
 border-radius: 5px;
 padding: 30px;
 }
-.box-title{
-    
-}
-.box-about{
-
-}
 /* loving-feauter-image(Right side) */
 .loving-feauter-image{
     position: relative ;
 }
-.single-img{
-    
-}
+
 .secondary-btn {
     padding: 40px;
     position: absolute;
@@ -268,20 +243,12 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.sponspors-container{
-    
-}
+
 .sponspors-info{
     max-width: 545px;
     width: 100%;
     margin: 0 auto;
     text-align: center;
-}
-.sponspors-title{
-
-}
-.sponspors-about{
-
 }
 .sponspors-logos{
     display: flex;
@@ -308,9 +275,6 @@ justify-content: center;
     gap: 3rem;
     margin-top: 4rem;
 }
-.contact-description{
-
-}
 .main-title{
     font-size: 2rem;
     text-align: center;
@@ -327,9 +291,7 @@ margin: 30px 0 0 0;
     color: #727272;
     padding: 20px 0;
 }
-.contact-img{
 
-}
 .contact-img img{
     width: 30px;
     height: 30px;
