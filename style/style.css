@@ -369,7 +369,7 @@ margin: 30px 0 0 0;
   /* -------
         Responsive design 
   --------*/
-  @media screen and (max-width:480px) {
+  @media screen and (max-width:576px) {
     /* nave */
     nav {
         flex-direction: column;
